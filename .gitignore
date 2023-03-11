@@ -130,3 +130,5 @@ dmypy.json
 
 .vscode
 data/
+.DS_Store
+scraper/.DS_Store
