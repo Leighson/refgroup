@@ -132,3 +132,4 @@ dmypy.json
 data/
 .DS_Store
 scraper/.DS_Store
+scraper/test/lead-list-detailed.xlsx
